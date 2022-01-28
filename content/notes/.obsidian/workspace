@@ -7,8 +7,12 @@
         "id": "f05a03d78750ba33",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "config.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "config.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,5 +88,16 @@
     "collapsed": true
   },
   "active": "f05a03d78750ba33",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "config.md",
+    "editing.md",
+    "Obsidian.md",
+    "obsidian.md",
+    "philosophy.md",
+    "preview changes.md",
+    "setup.md",
+    "showcase.md",
+    "troubleshooting.md",
+    "notes/images/obsidian-settings.png.md"
+  ]
 }
