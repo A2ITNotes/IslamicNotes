@@ -1,6 +1,6 @@
 baseURL = "https://github.com/A2ITNotes"
 languageCode = "en-us"
-googleAnalytics = "G-XYFD95KB4J"
+googleAnalytics = ""
 pygmentsUseClasses = true
 relativeURLs = true
 disablePathToLower = true
