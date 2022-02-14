@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "5d727af7f92c4c77",
+    "type": "split",
+    "children": [
+      {
+        "id": "eccff71e1c49bccf",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_index.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "46c7c25087aca9b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ddf34ba9f2c0d2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a82a12bd5a73334",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1ab2d52a5fd3c6f1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4d83c4cc2fd43129",
+    "type": "split",
+    "children": [
+      {
+        "id": "83594cdbd280f89a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "909614b3e1f477f1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "eccff71e1c49bccf",
+  "lastOpenFiles": [
+    "_index.md",
+    "Sacred-Text-Messages/STM-Main-Page.md",
+    "formatting.md",
+    "Sacred-Text-Messages/STM-1.md",
+    "templates/post.md",
+    "notes/images/github-actions.png",
+    "notes/notes/images/obsidian-settings.png.md",
+    "notes/config.md"
+  ]
+}
